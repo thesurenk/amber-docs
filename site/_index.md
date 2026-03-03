@@ -21,7 +21,7 @@ have links to earlier JEPs for the feature, as appropriate.
 
 Currently in progress:
 
--   Primitive Types in Patterns, <code>instanceof</code>, and <code>switch</code> (previous: [507](https://openjdk.org/jeps/507), [455](https://openjdk.org/jeps/455), [488](https://openjdk.org/jeps/488))
+-   [530: Primitive Types in Patterns, <code>instanceof</code>, and <code>switch</code>](https://openjdk.org/jeps/530) (previous: [507](https://openjdk.org/jeps/507), [455](https://openjdk.org/jeps/455), [488](https://openjdk.org/jeps/488))
 
 -   [468: Derived Record Creation (Preview)](https://openjdk.org/jeps/468)
 
